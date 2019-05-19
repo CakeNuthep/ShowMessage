@@ -1,0 +1,10 @@
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\bin\Debug\Showmessage.exe.config
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\bin\Debug\Showmessage.exe
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\bin\Debug\Showmessage.pdb
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.csprojAssemblyReference.cache
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.Form1.resources
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.Properties.Resources.resources
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.csproj.GenerateResource.cache
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.csproj.CoreCompileInputs.cache
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.exe
+D:\LearningC#\page\2019\Show message\Showmessage\Showmessage\obj\Debug\Showmessage.pdb
